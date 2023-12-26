@@ -1,0 +1,8 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÖÙÏøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ü´ßøÿÿÿÿ
+µ
+java:S1598"’This file "MailSender.java" should be located in "task2" directory, not in "/Users/olagavriluk/Desktop/UCU/term_1/OOP/LAB_11/src/main/java/task1".(•ñ´ßùÿÿÿÿ8ƒÖ·¹Ê1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(«•¯Úúÿÿÿÿ
